@@ -1,3 +1,4 @@
+![logo](https://github.com/Priyacraft/Priyacraft/blob/main/Github%20Banner.png)
 <h1 align="left">Hi 👋, I'm Priyadarshini Ramesh</h1>
 <h3 align="left">An enthusiastic and ambitious Computer Science Engineering student with a keen interest in solving real world challenges through technology</h3>
 <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
